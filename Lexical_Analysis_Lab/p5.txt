@@ -1,0 +1,5 @@
+char grade;
+do {
+grade = grade % 2;
+}
+[

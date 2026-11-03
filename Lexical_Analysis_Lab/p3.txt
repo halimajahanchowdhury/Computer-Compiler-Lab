@@ -1,0 +1,7 @@
+student1
+_total
+9marks
+123
+45.67
+12.
+my_name

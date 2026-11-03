@@ -1,0 +1,3 @@
+int x = 10; // initialize x
+float y = 2.5;
+@x = y + 1;
